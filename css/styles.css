@@ -10237,71 +10237,27 @@ label{
   height:100px;
   box-shadow:3px 3px 9px grey;
 }
-#d1{
-    float:left;
-    margin-left:10%;
-    margin-bottom:30px;
-    margin-top:30px;
-  
-  }
-  #d4{
-    float:right;
-    margin:30px;
-    margin-right:10%;
-  }
-  #d2{
-    float:left;
-    margin-left:10%;
-    margin-top: 40px;
-  }
-  #d3{
-    float:right;
-    margin:30px;
-    margin-right:10%;
-  }
-#map{
-  width:80%;
-}
-#selection{
-  text-align: center;
-  border-radius: 5px;
-  margin:50px;
-  background-color:#b8cdd4;
-}
-#p{
-  font-size: 20px;
-  text-align:center;
-}
-.git-img{
-  width:100%;
-}
-.logo-img{
-  float:left;
-  width:50%;
-}
 @media(min-width: 992px){
   #d1{
-    float:left;
-    margin-left:10%;
-    margin-bottom:30px;
-    margin-top:30px;
-  
+  float:left;
+  margin-left:2%;
   }
   #d4{
-    float:right;
-    margin:30px;
-    margin-right:10%;
+  float:left;
+  /*margin:2%;*/
+  margin-left:2%;
   }
   #d2{
-    float:left;
-    margin-left:10%;
-    margin-top: 40px;
+  float:left;
+  margin-left:2%;
+  /*margin-top: 2%;*/
   }
   #d3{
-    float:right;
-    margin:30px;
-    margin-right:10%;
+  float:left;
+  /*margin:2%;*/
+  margin-left:2%;
   }
+}
 #map{
   width:80%;
 }
@@ -10321,5 +10277,4 @@ label{
 .logo-img{
   float:left;
   width:50%;
-}
 }

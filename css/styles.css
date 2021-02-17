@@ -10278,3 +10278,12 @@ label{
   float:left;
   width:50%;
 }
+.d-inline-block{
+ margin-left:5px; 
+}
+@media(max-width:800px){
+  .d-inline-block{
+    margin-left:1%;
+    font-size:10px;
+  }
+}
